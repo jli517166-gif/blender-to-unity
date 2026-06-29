@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.blend1
+test_output/
+test_output_unity6/
+Library/
+Temp/
+Obj/
+Logs/
+UserSettings/
